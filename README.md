@@ -5,7 +5,7 @@
 </a>
 
 ### 🌱 I’m currently learning ...
-[Kubernetes](https://kubernetes.io/) and [OpenFaaS](https://www.openfaas.com/) as part of my masters capstone project.
+[Kubernetes](https://kubernetes.io/), [OpenFaaS](https://www.openfaas.com/), and [Ansible](https://www.ansible.com/) as part of my masters capstone project.
 
 <!--
 **rgschmitz1/rgschmitz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
