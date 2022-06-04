@@ -8,7 +8,7 @@
 [Kubernetes](https://kubernetes.io/docs/home/), [OpenFaaS](https://docs.openfaas.com/), and [Ansible](https://docs.ansible.com/ansible/latest/index.html) as part of my masters capstone project.
 
 ### 📖 Research publications ...
-[Characterizing X86 and ARM Serverless Performance Variation: A Natural Language Processing Case Study](https://www.rgschmitz.com/publication/conference-paper/hotcloudperf_lambda_variability.pdf)
+[Characterizing X86 and ARM Serverless Performance Variation: A Natural Language Processing Case Study](https://raw.githubusercontent.com/rgschmitz1/portfolio/main/content/publication/conference-paper/hotcloudperf_lambda_variability.pdf)
 
 <!--
 **rgschmitz1/rgschmitz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
