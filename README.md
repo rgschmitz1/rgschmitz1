@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- LinkedIn Contact -->
 [![LinkedIn profile](https://img.shields.io/badge/-BOB%20SCHMITZ%20III-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rgschmitz/)
 
