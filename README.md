@@ -2,7 +2,10 @@
 [![LinkedIn profile](https://img.shields.io/badge/-BOB%20SCHMITZ%20III-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rgschmitz/)
 
 ### 🌱 I’m currently learning ...
-[Kubernetes](https://kubernetes.io/docs/home/), [OpenFaaS](https://docs.openfaas.com/), [Terraform](https://www.terraform.io/docs), and [Ansible](https://docs.ansible.com/ansible/latest/index.html)
+* [Kubernetes](https://kubernetes.io/docs/home/)
+* [OpenFaaS](https://docs.openfaas.com/)
+* [Terraform](https://www.terraform.io/docs)
+* [Ansible](https://docs.ansible.com/ansible/latest/index.html)
 
 ### 📖 Research publications ...
 [Characterizing X86 and ARM Serverless Performance Variation: A Natural Language Processing Case Study](https://doi.org/10.1145/3491204.3543506)
